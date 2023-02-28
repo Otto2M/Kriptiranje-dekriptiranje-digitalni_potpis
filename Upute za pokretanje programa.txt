@@ -1,0 +1,16 @@
+UPUTE ZA POKRETANJE PROGRAMA:
+
+1. Unutar mape "Otto_Miler Matulin_C#" nalazi se mapa "DigitalniPotpis" koja sadrži mapu "datoteke" u koju se sprema sav potreban sadržaj poput: tajni_kljuc.txt, privatni_kljuc.txt, javni_kljuc.txt, kriptirane poruke i slični tekstualni dokumenti.
+
+2. Unutar mape "DigitalniPotpis" nalazi se i datoteka DigitalniPotpis.sln koju je potrebno pokrenuti s programom Visual Studio
+
+3. Otvaranjem programa na gornjoj traci nalazi se zeleni gumb za pokretanje windows aplikacije
+
+	- otvara se forma 
+	- korisnik mora učitati sadržaj datoteke tekst.txt
+	- zatim se generiraju ključevi potrebni za kriptiranje odnosno dekriptiranje sadržaja
+	- korisnik ima mogućnost odabira algoritma za kriptiranje i dekriptiranje sadržaja
+	- moguće je izračunati sažetak ulaznog sadržaja
+	- korisnik može izračunati i provjeriti digitalni potpis
+
+Napomena: sav taj sadržaj sprema se u tekstualne datoteke koje se nalaze u prethodno navedenoj mapi
