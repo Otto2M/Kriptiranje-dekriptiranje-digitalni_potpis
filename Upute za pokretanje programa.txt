@@ -1,6 +1,6 @@
 UPUTE ZA POKRETANJE PROGRAMA:
 
-1. Unutar mape "Otto_Miler Matulin_C#" nalazi se mapa "DigitalniPotpis" koja sadrži mapu "datoteke" u koju se sprema sav potreban sadržaj poput: tajni_kljuc.txt, privatni_kljuc.txt, javni_kljuc.txt, kriptirane poruke i slični tekstualni dokumenti.
+1. Mapa "DigitalniPotpis" sadrži mapu "datoteke" u koju se sprema sav potreban sadržaj poput: tajni_kljuc.txt, privatni_kljuc.txt, javni_kljuc.txt, kriptirane poruke i slični tekstualni dokumenti.
 
 2. Unutar mape "DigitalniPotpis" nalazi se i datoteka DigitalniPotpis.sln koju je potrebno pokrenuti s programom Visual Studio
 
