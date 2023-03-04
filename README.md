@@ -8,7 +8,9 @@ Ovim projektom izrađen je program koji korisniku omogućuje sljedeće:
 
 Za **simetrično** kriptiranje i dekriptiranje sadržaja datoteke korišten je AES algoritam, dok je za **asimetrično** kriptiranje i dekriptiranje korišten RSA algoritam. Digitalni potpis kreiran je korištenjem RSA algoritma.
 Za izradu cijelog programa korišten je alat Visual Studio, a program je realiziran u obliku Windows Forms aplikacije.
+Radi jednostavnosti korištenja izrađena je jedna forma kroz koju su omogućene sve funkcionalnosti, a sadrži osnovne i pregledne elemente kako bi se korisnik što lakše snašao. 
 
+<br>
 **Korištenje aplikacije**
 1. pokretanjem aplikacije otvara se forma koja omogućuje korisniku prethodno navedene funkcionalnosti
 2. korisnik najprije učitava sadržaj .txt datoteku koji želi kriptirati
