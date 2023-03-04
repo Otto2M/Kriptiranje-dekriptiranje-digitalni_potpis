@@ -11,6 +11,7 @@ Za izradu cijelog programa korišten je alat Visual Studio, a program je realizi
 Radi jednostavnosti korištenja izrađena je jedna forma kroz koju su omogućene sve funkcionalnosti, a sadrži osnovne i pregledne elemente kako bi se korisnik što lakše snašao. 
 
 <br>
+
 **Korištenje aplikacije**
 1. pokretanjem aplikacije otvara se forma koja omogućuje korisniku prethodno navedene funkcionalnosti
 2. korisnik najprije učitava sadržaj .txt datoteku koji želi kriptirati
