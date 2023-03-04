@@ -6,7 +6,7 @@ Ovim projektom izrađen je program koji korisniku omogućuje sljedeće:
 - izračunavanje sažetka poruke (ulazne datoteke)
 - digitalno potpisivanje ulazne datoteke te provjeru digitalnog potpisa
 
-Za **simetrično** kriptiranje i dekriptiranje sadržaja datoteke korišten je AES algoritam, dok je za **asimetrično** kriptiranje i dekriptiranje korišten RSA algoritam. Digitalni potpis kreiran je korištenjem RSA algoritma.
+Za **simetrično** kriptiranje i dekriptiranje sadržaja datoteke korišten je AES algoritam, dok je za **asimetrično** kriptiranje i dekriptiranje korišten RSA algoritam. Digitalni potpis kreiran je korištenjem RSA algoritma. Iz poruke se izračunava sažetak koristeći hash funkciju (SHA256). Sažetak se kriptira privatnim ključem i dodaje se izvornoj poruci/sadržaju.
 Za izradu cijelog programa korišten je alat Visual Studio, a program je realiziran u obliku Windows Forms aplikacije.
 Radi jednostavnosti korištenja izrađena je jedna forma kroz koju su omogućene sve funkcionalnosti, a sadrži osnovne i pregledne elemente kako bi se korisnik što lakše snašao. 
 
